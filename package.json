@@ -1,0 +1,22 @@
+{
+  "name": "pg-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bernardofcs/pg-connect.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bernardofcs/pg-connect/issues"
+  },
+  "homepage": "https://github.com/bernardofcs/pg-connect#readme",
+  "dependencies": {
+    "pg": "^6.1.2"
+  }
+}
